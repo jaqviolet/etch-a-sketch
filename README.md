@@ -1,3 +1,3 @@
 # etch-a-sketch
 javascript/jquery project
-http://www.theodinproject.com/web-development-101/html-css
+ +* [Click here to view this project](http://htmlpreview.github.io/?https://github.com/jaqviolet/etch-a-sketch/blob/master/index.html
