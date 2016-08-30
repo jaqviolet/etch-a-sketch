@@ -1,0 +1,69 @@
+#container {
+	width:900px;
+	height:900px;
+	background-color:red;
+	margin: auto;
+	margin-top:30px;
+	margin-bottom:30px;
+	border-radius:10%;
+}
+
+#text {
+	margin:auto;
+	text-align: center;
+	padding-top:10px;
+}
+
+h1 {
+	font-size:50px;
+}
+
+#box {
+	width: 600px;
+	height: 600px;
+	background-color: white;
+	margin:auto;
+	margin-top:30px;
+	margin-bottom:30px;
+	
+} 
+
+.grid {
+	background-color:grey;
+	width:37.5px;
+	height:37.5px;
+	border-width:0px;
+	float:left;
+}
+
+.highLight {
+	background-color: black;
+}
+
+
+.dial {
+	background-color:white;
+	border-radius:100%;
+	width:120px;
+	height:120px;
+	float:left;
+	margin-left:80px;
+	margin-right:80px;
+	
+	margin-bottom:40px;
+
+}
+
+#right {
+	float:right;
+}
+
+.center{
+	
+	text-align:center;
+	vertical-align:bottom;
+	line-height:120px;
+	font-weight:bold;
+	color:black;
+
+}
